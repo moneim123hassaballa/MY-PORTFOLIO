@@ -123,6 +123,9 @@
          display: table;
 
      }
+     .aboutme p{
+        line-height: 1.5;
+     }
 
      .home button {
          color: white;
@@ -535,7 +538,7 @@
          text-align: center;
          /* padding-left: 30px; */
          /* margin: 20px; */
-         background-image: linear-gradient(to top, rgba(22, 90, 69, 0.212), rgba(11, 60, 78, 0.938));
+         background-image: linear-gradient(to top, rgba(8, 64, 102, 0.212), rgba(12, 91, 119, 0.938));
 
      }
 
